@@ -1,0 +1,33 @@
+body{
+    background-color: #E5B200;
+}
+
+h3 {
+    background-color: #E5B200;
+    color: white;
+    font-weight: 700;
+    font-family: 'Spectral', serif;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color:white;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: blue;
+    padding: 16px 45px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: rgba(0,0,0,0);
+    border-radius: 5px; 
+    border: 2px, solid, white;
+    color:white
+}
